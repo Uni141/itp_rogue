@@ -93,9 +93,6 @@ private:
 	int _rowSize;
 	int _colSize;
 
-	int playerX{ 0 };
-	int playerY{ 0 };
-
 	Enemy enemy;
 	Player player;
 
